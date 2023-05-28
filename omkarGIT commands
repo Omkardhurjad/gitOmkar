@@ -9,3 +9,10 @@ $ git push -u origin main
 $ git pull origin Student
 $ git pull origin Student
 $ git status
+------------------------------------------------------------------------------------
+
+javac -classpath jars/cloudsim-3.0.3.jar:examples examples/org/cloudbus/cloudsim/examples/CloudSimExample1.java
+java -classpath jars/cloudsim-3.0.3.jar:examples org.cloudbus.cloudsim.examples.CloudSimExample1
+
+javac -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/examples/power/Simulation.java
+java -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/examples/power/Simulation.java
