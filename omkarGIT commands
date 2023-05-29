@@ -24,3 +24,11 @@ javac -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/example
 java -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/examples/power/Simulation.java
 
 
+1.	sudo apt-get update
+2.	sudo apt-get install virtualbox
+3.	sudo apt-get install virtualbox—ext–pack
+https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
+
+
+
+
