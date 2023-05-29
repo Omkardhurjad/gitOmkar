@@ -12,8 +12,15 @@ $ git status
 ------------------------------------------------------------------------------------
 scp (file-name).txt vagrant@(IP Address):/home/vagrant/(folder-name created in machine 2)
 
+
+gedit /etc/environment
+: sudo update-alternatives --config java
+ant -version
+cd cloudsim-3.0.3/
 javac -classpath jars/cloudsim-3.0.3.jar:examples examples/org/cloudbus/cloudsim/examples/CloudSimExample1.java
 java -classpath jars/cloudsim-3.0.3.jar:examples org.cloudbus.cloudsim.examples.CloudSimExample1
 
 javac -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/examples/power/Simulation.java
 java -classpath jars/cloudsim-3.0.3.jar: examples/org/cloudbus/cloudsim/examples/power/Simulation.java
+
+
